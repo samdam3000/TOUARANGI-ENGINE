@@ -1,0 +1,1 @@
+# Detects asymmetrical cloud conditions
